@@ -1,7 +1,4 @@
-function setup() {
-  // put setup code here
-}
-
-function draw() {
-  // put drawing code here
+function setup(){
+  //Canvas1
+  var myp5 = new p5(new canvas1(), 'canvas1');
 }
